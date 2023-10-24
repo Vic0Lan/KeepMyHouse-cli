@@ -26,6 +26,7 @@ enum Actions {
     /// Transfer your database file
     Transfer(Tnf),
 }
+//Aniko non sa usare i trait :P
 
 #[derive(Args)]
 struct Init {
@@ -286,5 +287,5 @@ fn open_db(filename: &String, encryption: &String) {
     }
 }
 
+//Guess i'll die
 
-//Guess i'll die 

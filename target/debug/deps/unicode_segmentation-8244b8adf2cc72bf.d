@@ -1,0 +1,9 @@
+/Users/vic_lan/KeepMyHouse-cli/target/debug/deps/unicode_segmentation-8244b8adf2cc72bf.rmeta: /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/lib.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/grapheme.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/sentence.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/word.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/vic_lan/KeepMyHouse-cli/target/debug/deps/unicode_segmentation-8244b8adf2cc72bf.d: /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/lib.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/grapheme.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/sentence.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/word.rs /Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/lib.rs:
+/Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/grapheme.rs:
+/Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/sentence.rs:
+/Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/word.rs:
+/Users/vic_lan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.10.1/src/tables.rs:
